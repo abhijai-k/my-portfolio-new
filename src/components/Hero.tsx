@@ -25,7 +25,7 @@ export default function Hero() {
 
           <div className="flex justify-center lg:justify-start space-x-4">
             <a
-              href="https://github.com"
+              href="https://github.com/abhijai-k"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
@@ -33,7 +33,7 @@ export default function Hero() {
               <Github className="w-6 h-6 text-white" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/abhijaik"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
@@ -41,7 +41,7 @@ export default function Hero() {
               <Linkedin className="w-6 h-6 text-white" />
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:abhijai2001@gmail.com"
               className="p-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
             >
               <Mail className="w-6 h-6 text-white" />
